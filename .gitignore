@@ -81,7 +81,7 @@ DerivedDataCache/*
 # Ignore SGKv2 (Except Blueprints)
 Content/SurvivalGameKitV2/Animations/*
 Content/SurvivalGameKitV2/Effects/*
-Content/SurvivalGameKitV2/FolaigeTypes/*
+Content/SurvivalGameKitV2/FoliageTypes/*
 Content/SurvivalGameKitV2/Maps/*
 Content/SurvivalGameKitV2/Materials/*
 Content/SurvivalGameKitV2/Meshes/*
