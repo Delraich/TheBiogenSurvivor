@@ -89,13 +89,13 @@ Content/SurvivalGameKitV2/Sounds/*
 Content/SurvivalGameKitV2/Textures/*
 
 #Ignore Smart AI (Except Blueprints)
-Content/SurvivalGameKitV2/Animations/*
-Content/SurvivalGameKitV2/Effects/*
-Content/SurvivalGameKitV2/Maps/*
-Content/SurvivalGameKitV2/Materials/*
-Content/SurvivalGameKitV2/Meshes/*
-Content/SurvivalGameKitV2/Sounds/*
-Content/SurvivalGameKitV2/Textures/*
+Content/SmartAI/Animations/*
+Content/SmartAI/Effects/*
+Content/SmartAI/Maps/*
+Content/SmartAI/Materials/*
+Content/SmartAI/Meshes/*
+Content/SmartAI/Sounds/*
+Content/SmartAI/Textures/*
 
 ### UnrealEngine Patch ###
 # Don't ignore icon and splash images for mobile app
