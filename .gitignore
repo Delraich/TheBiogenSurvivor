@@ -98,24 +98,24 @@ Content/SmartAI/Sounds/*
 Content/SmartAI/Textures/*
 
 #Ignore Rodents (Except Blueprints)
-Rodents/Squirrel/AI/*
-Rodents/Squirrel/Animation/*
-!Rodents/Squirrel/Animation/AnimationBlueprint/*
-Rodents/Squirrel/Materials/*
-Rodents/Squirrel/Meshes/*
-Rodents/Squirrel/Textures/*
-Rodents/Rabbit/AI/*
-Rodents/Rabbit/Animation/*
-!Rodents/Rabbit/Animation/AnimationBlueprint/*
-Rodents/Rabbit/Materials/*
-Rodents/Rabbit/Meshes/*
-Rodents/Rabbit/Textures/*
-Rodents/Rat/AI/*
-Rodents/Rat/Animation/*
-!Rodents/Rat/Animation/AnimationBlueprint/*
-Rodents/Rat/Materials/*
-Rodents/Rat/Meshes/*
-Rodents/Rat/Textures/*
+Content/Rodents/Squirrel/AI/*
+Content/Rodents/Squirrel/Animation/*
+!Content/Rodents/Squirrel/Animation/AnimationBlueprint/*
+Content/Rodents/Squirrel/Materials/*
+Content/Rodents/Squirrel/Meshes/*
+Content/Rodents/Squirrel/Textures/*
+Content/Rodents/Rabbit/AI/*
+Content/Rodents/Rabbit/Animation/*
+!Content/Rodents/Rabbit/Animation/AnimationBlueprint/*
+Content/Rodents/Rabbit/Materials/*
+Content/Rodents/Rabbit/Meshes/*
+Content/Rodents/Rabbit/Textures/*
+Content/Rodents/Rat/AI/*
+Content/Rodents/Rat/Animation/*
+!Content/Rodents/Rat/Animation/AnimationBlueprint/*
+Content/Rodents/Rat/Materials/*
+Content/Rodents/Rat/Meshes/*
+Content/Rodents/Rat/Textures/*
 
 ### UnrealEngine Patch ###
 # Don't ignore icon and splash images for mobile app
