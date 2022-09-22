@@ -97,6 +97,26 @@ Content/SmartAI/Meshes/*
 Content/SmartAI/Sounds/*
 Content/SmartAI/Textures/*
 
+#Ignore Rodents (Except Blueprints)
+Rodents/Squirrel/AI/*
+Rodents/Squirrel/Animation/*
+!Rodents/Squirrel/Animation/AnimationBlueprint/*
+Rodents/Squirrel/Materials/*
+Rodents/Squirrel/Meshes/*
+Rodents/Squirrel/Textures/*
+Rodents/Rabbit/AI/*
+Rodents/Rabbit/Animation/*
+!Rodents/Rabbit/Animation/AnimationBlueprint/*
+Rodents/Rabbit/Materials/*
+Rodents/Rabbit/Meshes/*
+Rodents/Rabbit/Textures/*
+Rodents/Rat/AI/*
+Rodents/Rat/Animation/*
+!Rodents/Rat/Animation/AnimationBlueprint/*
+Rodents/Rat/Materials/*
+Rodents/Rat/Meshes/*
+Rodents/Rat/Textures/*
+
 ### UnrealEngine Patch ###
 # Don't ignore icon and splash images for mobile app
 !Build/IOS/Resources/
