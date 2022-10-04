@@ -117,6 +117,9 @@ Content/Rodents/Rat/Materials/*
 Content/Rodents/Rat/Meshes/*
 Content/Rodents/Rat/Textures/*
 
+#Ignore STF
+Content/STF/*
+
 ### UnrealEngine Patch ###
 # Don't ignore icon and splash images for mobile app
 !Build/IOS/Resources/
