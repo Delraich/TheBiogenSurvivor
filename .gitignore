@@ -117,6 +117,12 @@ Content/Rodents/Rat/Materials/*
 Content/Rodents/Rat/Meshes/*
 Content/Rodents/Rat/Textures/*
 
+#Ignore AnimalVarietyPack (Except blueprints)
+Content/AnimalVarietyPack/*
+!Content/AnimalVarietyPack/Wolf/Animations/AnimationBlueprint/*
+!Content/AnimalVarietyPack/Wolf/Animations/BlendSpace/*
+!Content/AnimalVarietyPack/Wolf/Animations/Montages/*
+
 #Ignore STF
 Content/STF/*
 
