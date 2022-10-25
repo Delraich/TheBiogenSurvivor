@@ -123,6 +123,9 @@ Content/AnimalVarietyPack/*
 !Content/AnimalVarietyPack/Wolf/Animations/BlendSpace/*
 !Content/AnimalVarietyPack/Wolf/Animations/Montages/*
 
+#Ignore Demo Survival character
+Content/Man/*
+
 #Ignore STF
 Content/STF/*
 
