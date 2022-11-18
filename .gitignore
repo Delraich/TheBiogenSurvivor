@@ -129,6 +129,9 @@ Content/Man/*
 #Ignore STF
 Content/STF/*
 
+#Ignore Megascans
+Content/MegaScans
+
 ### UnrealEngine Patch ###
 # Don't ignore icon and splash images for mobile app
 !Build/IOS/Resources/
