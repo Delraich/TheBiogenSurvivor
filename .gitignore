@@ -130,7 +130,10 @@ Content/Man/*
 Content/STF/*
 
 #Ignore Megascans
-Content/MegaScans
+Content/MegaScans/*
+
+#Ignore MSPresets
+Content/MSPresets/*
 
 ### UnrealEngine Patch ###
 # Don't ignore icon and splash images for mobile app
