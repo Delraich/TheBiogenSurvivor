@@ -132,6 +132,12 @@ Content/STF/*
 #Ignore Megascans
 Content/MegaScans/*
 
+#Ignore ProceduralBiomes
+Content/ProceduralBiomes/*
+
+#Igonre ProceduralNaturPack
+Content/ProceduralNaturePack/*
+
 #Ignore MSPresets
 Content/MSPresets/*
 
