@@ -78,6 +78,9 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+# Ignore maps (Add to large file storage instead)
+Content/TheBiogenSurvivor/Maps/*
+
 # Ignore SGKv2 (Except Blueprints)
 Content/SurvivalGameKitV2/Animations/*
 Content/SurvivalGameKitV2/Effects/*
@@ -137,6 +140,9 @@ Content/ProceduralBiomes/*
 
 #Igonre ProceduralNaturPack
 Content/ProceduralNaturePack/*
+
+#Ignore maps
+Content/TheBiogenSurvivor/Maps/*
 
 #Ignore MSPresets
 Content/MSPresets/*
