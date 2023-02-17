@@ -126,6 +126,15 @@ Content/AnimalVarietyPack/*
 !Content/AnimalVarietyPack/Wolf/Animations/BlendSpace/*
 !Content/AnimalVarietyPack/Wolf/Animations/Montages/*
 
+#Ignore InfinityPBR (Except Blueprints)
+Content/InfinityPBR
+!Content/InfinityPBR/MushroomMonster/Animations/AnimationBlueprint/*
+!Content/InfinityPBR/MushroomMonster/Animations/BlendSpace/*
+!Content/InfinityPBR/MushroomMonster/Animations/Montages/*
+
+#Ignore Modular_Sci_Fi
+Content/Modular_Sci_Fi
+
 #Ignore Demo Survival character
 Content/Man/*
 
