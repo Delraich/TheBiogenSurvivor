@@ -152,6 +152,8 @@ Content/ProceduralNaturePack/*
 
 #Ignore maps
 Content/TheBiogenSurvivor/Maps/*
+Content/__ExternalActors__/*
+Content/__ExternalObjects__/*
 
 #Ignore MSPresets
 Content/MSPresets/*
