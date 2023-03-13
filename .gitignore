@@ -146,6 +146,9 @@ Content/MegaScans/*
 
 #Ignore ProceduralBiomes
 Content/ProceduralBiomes/*
+!Content/ProceduralBiomes/World/SharedAssets/*
+!Content/ProceduralBiomes/Materials/LandscapeMaterials/*
+!Content/ProceduralBiomes/Materials/MaterialFunctions/*
 
 #Igonre ProceduralNaturPack
 Content/ProceduralNaturePack/*
