@@ -161,6 +161,12 @@ Content/__ExternalObjects__/*
 #Ignore MSPresets
 Content/MSPresets/*
 
+#Ignore DarkForest
+Content/DarkForest/*
+
+#Ignore Footsteps FX
+Content/A_Surface_Footstep/*
+
 ### UnrealEngine Patch ###
 # Don't ignore icon and splash images for mobile app
 !Build/IOS/Resources/
