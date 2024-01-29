@@ -1,13 +1,16 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.1",
+	"EngineAssociation": "5.3",
 	"Category": "",
 	"Description": "",
 	"Modules": [
 		{
 			"Name": "TheBiogenSurvivor",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
 		}
 	],
 	"Plugins": [
@@ -50,7 +53,9 @@
 			"SupportedTargetPlatforms": [
 				"IOS",
 				"Win64",
-				"Mac"
+				"Mac",
+				"Linux",
+				"Android"
 			]
 		},
 		{
@@ -59,14 +64,14 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d605a2cceb8546b39accf458c022b0df"
 		},
 		{
-			"Name": "n00dFootsteps",
-			"Enabled": true,
-			"MarketplaceURL": "https://publish.unrealengine.com/v3/edit-product/f1660ba30bf749e0baf7be8fcceef36e"
-		},
-		{
 			"Name": "VoxelFree",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c61d1941c8664436be42d649404a10e0"
+		},
+		{
+			"Name": "n00dFootsteps",
+			"Enabled": true,
+			"MarketplaceURL": "https://publish.unrealengine.com/v3/edit-product/f1660ba30bf749e0baf7be8fcceef36e"
 		}
 	]
 }
