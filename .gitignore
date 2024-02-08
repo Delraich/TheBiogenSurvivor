@@ -150,8 +150,13 @@ Content/ProceduralBiomes/*
 !Content/ProceduralBiomes/Materials/LandscapeMaterials/*
 !Content/ProceduralBiomes/Materials/MaterialFunctions/*
 
-#Igonre ProceduralNaturPack
+#Ignore ProceduralNaturPack
 Content/ProceduralNaturePack/*
+
+#Ignore Electricity Demo
+Content/PlayerElectricitySystem
+!Content/PlayerElectricitySystem/Blueprints
+
 
 #Ignore maps
 Content/TheBiogenSurvivor/Maps/*
