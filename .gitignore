@@ -172,6 +172,10 @@ Content/DarkForest/*
 #Ignore Footsteps FX
 Content/A_Surface_Footstep/*
 
+#Ignore Archery System except blueprints
+Content/ArcherySystem/Assets
+Content/ArcherySystem/Demo
+
 ### UnrealEngine Patch ###
 # Don't ignore icon and splash images for mobile app
 !Build/IOS/Resources/
