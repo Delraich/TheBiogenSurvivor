@@ -176,6 +176,9 @@ Content/A_Surface_Footstep/*
 Content/ArcherySystem/Assets
 Content/ArcherySystem/Demo
 
+#Ignore Archery assets
+Content/TheBiogenSurvivor/Archery/Meshes
+
 ### UnrealEngine Patch ###
 # Don't ignore icon and splash images for mobile app
 !Build/IOS/Resources/
