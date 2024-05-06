@@ -72,6 +72,10 @@
 			"Name": "n00dFootsteps",
 			"Enabled": true,
 			"MarketplaceURL": "https://publish.unrealengine.com/v3/edit-product/f1660ba30bf749e0baf7be8fcceef36e"
+		},
+		{
+			"Name": "SunPosition",
+			"Enabled": true
 		}
 	]
 }
